@@ -1,6 +1,6 @@
-# Decathlon Yestalgia - 3D/Interactive Web Experience
+# Soulful Heaven - 3D/Interactive Web Experience
 
-A high-performance, visually stunning, and interactive landing page clone of the **Decathlon Yestalgia** collection (celebrating Decathlon's retro style since 1976). This project serves as a showcase for state-of-the-art interactive web animations, combining smooth scroll-driven storytelling with rich vector animations.
+A high-performance, visually stunning, and interactive landing page for **Soulful Heaven** (celebrating Indian cultural and spiritual toys since 2026). This project serves as a showcase for state-of-the-art interactive web animations, combining smooth scroll-driven storytelling with rich vector animations.
 
 ---
 
